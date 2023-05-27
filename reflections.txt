@@ -1,0 +1,39 @@
+1. In css
+    ~ display properties ( for arranging content in page )
+    ~ position properties ( for the problem I faced during sidebar creation )
+    ~ @media queries
+    ~ transitions
+    ~ used scss
+        ~~ partials scss
+    ~ adding min-height, max-width for response divs
+    ~ continers for uniform layout
+
+2. images
+    ~ adding responsive images
+    
+3. arranging css values in  
+    #example {
+        // display
+
+        // position
+
+        // box-model
+
+        // typography
+
+        // manipulations
+
+        // misc
+    }
+
+4. unique style of adding class names to similar objects
+        <div id="hero__designerCard">
+          <div id="hero__designerCard__details" class="stack">
+            ...
+          </div>
+          <div id="hero__designerCard__description">
+            ...
+          </div>
+        </div>
+
+5. adding hamburger icon
